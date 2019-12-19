@@ -1,0 +1,2 @@
+
+require('./benchmarks/run');
